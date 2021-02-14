@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @feliperangel98
+- 👀 I’m interested in learn everything about programming
+- 🌱 I’m currently learning HTML
+- 💞️ I’m looking to collaborate on new projects
